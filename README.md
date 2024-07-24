@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-agrawal-59b749274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-agrawal-59b749274/" height="30" width="40" /></a>
-<a href="https://instagram.com/abhishek.singhal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek.singhal_" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishek.singhal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek.singhal_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
